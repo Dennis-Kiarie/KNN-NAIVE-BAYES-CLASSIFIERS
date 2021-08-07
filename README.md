@@ -2,7 +2,7 @@
 
 To implement K-nearest neighbor and  Naive Bayes Classifier. Conduct Experiment and calculate metrics
 
-This is a predictive data analysis to design two a models i.e First model will predict if a passenger onboard servived or not and the Second model will assist in predicting if an Email is spam or not.The data used in predicting is extracted from two data sources i.e
+This is a predictive data analysis to design two  models i.e First model will predict if a passenger onboard survived Titanic disaster or not and the Second model will assist in predicting if an Email is spam or not.The data used in predicting is extracted from two data sources i.e
 
 Dataset 1 Source:
 
